@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/stat_notify_chat"
+    tools:context="com.nyaringitab.novaapp.ChatActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:background="@android:drawable/stat_notify_chat"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:visibility="visible"
+        tools:background="@android:drawable/stat_notify_chat">
+
+        <TextView
+            android:id="@+id/txt_msg"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:maxWidth="100dp"
+            android:padding="5dp"
+            android:textColor="@android:color/holo_red_dark" />
+
+    </LinearLayout>
+
+</RelativeLayout>

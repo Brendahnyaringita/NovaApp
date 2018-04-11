@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NovaApp</string>
+    <string name="text_welcome">Welcome To RiskIt</string>
+    <string name="button_join">JOIN RISKIT!</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="edit_email">Enter valid email address</string>
+    <string name="edit_password">Password</string>
+    <string name="text_or">OR</string>
+    <string name="text_signup">Sign in as a new member</string>
+    <string name="text_signin">Hi Newbie! You wanna sign in as: </string>
+    <string name="btn_mentee">MENTEE</string>
+    <string name="btn_mentor">MENTOR</string>
+    <string name="btn_career_buddy">CAREER BUDDY</string>
+    <string name="txt_mentee_sign_in">Sign in mentee details</string>
+    <string name="edt_mentee_name">Full Names</string>
+    <string name="edt_mentee_email">Email</string>
+    <string name="edt_mentee_school">High School</string>
+    <string name="btn_sign_in_mentee">Sign In as Mentee</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_cbuddy_signin">Sign In as a Career Buddy</string>
+    <string name="edt_company">Company</string>
+    <string name="edt_dob">Date of Birth</string>
+    <string name="edt_occupation">Occupation</string>
+    <string name="txt_gender">Gender</string>
+    <string name="check_male">Male</string>
+    <string name="check_female">Female</string>
+    <string name="btn_sign_in_cbuddy">Sign In as a Career Buddy</string>
+    <string name="txt_sign_in_mentor">Sign in as a Mentor</string>
+    <string name="edt_university">University or College</string>
+    <string name="edt_course">Course</string>
+    <string name="btn_sign_in_mentor">Sign In as a Mentor</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="edit_name">Full Name</string>
+    <string name="edit_confirm_password">Confirm Password</string>
+    <string name="chatbox_EnterMessage">EnterMessage</string>
+    <string name="chatbox_send">SEND</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_text">Welcome to Risk It!, Your one stop platform for thousands of career choice advice, Internship updates and if you\'re lucky...Win a scholarship</string>
+
+
+    //For the Internships Fragment
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Next</string>
+    <string name="backdrop_title">LOVE physics</string>
+    <string name="backdrop_subtitle">Lucracious careers</string>
+
+
+</resources>
